@@ -1,0 +1,70 @@
+﻿body {
+}
+
+/*dividers*/
+#Header
+{
+    background-color: white;
+    height: 50px;
+    color : red;
+    text-align : center;
+    margin : auto;
+    padding-top : 40px 0;
+    font-size: 30px;
+    background-color: lightgrey;
+
+}
+
+#Base
+{
+    padding-top: 10px;
+    text-align : left;
+    
+
+}
+
+#ContentL
+{
+width: 25%;
+float:left;
+text-align: left;
+}
+
+#ContentR {
+    width: 55%;
+    float: right;
+    text-align: left;
+}
+
+
+
+/*Labels*/
+#lblName {
+    text-align: center;
+    font-size: 50px;
+    color: lightslategrey;
+    padding : 10px;
+}
+
+#lblSurname {
+    text-align: center;
+    font-size: 50px;
+    color: lightslategrey;
+    padding: 10px;
+}
+
+/*Image*/
+#pfpIcon
+{
+    padding-right : 50px;
+}
+
+/*headings*/
+
+H4
+{
+font-size : 25px;
+color : gray;
+    width: 767px;
+}
+

@@ -1,0 +1,18 @@
+﻿/*dividers*/
+#Header {
+    background-color: white;
+    height: 50px;
+    color: red;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px 0;
+    font-size: 30px;
+    background-color: lightgrey;
+}
+
+#Footer
+{
+  padding: 20px;
+
+}
+
