@@ -1,0 +1,13 @@
+﻿CREATE TABLE [dbo].[NewsclipTable] (
+    [Id]             INT        NOT NULL,
+    [Name]           NCHAR (20) NULL,
+    [Surname]        NCHAR (20) NULL,
+    [Phone]          NCHAR (10) NULL,
+    [Email]          NCHAR (30) NULL,
+    [Age]            NCHAR (10) NULL,
+    [Location]       NCHAR (40) NULL,
+    [Qualifications] TEXT       NULL,
+    [Bio]            TEXT       NULL,
+    [Image]          VARBINARY(MAX)      NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);

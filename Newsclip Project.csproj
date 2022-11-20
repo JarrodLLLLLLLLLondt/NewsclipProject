@@ -75,6 +75,7 @@
     <Content Include="Default.aspx" />
     <Content Include="Design\StyleSheet1.css" />
     <Content Include="Design\StyleSheet2.css" />
+    <Content Include="SQL\newsclipTable.txt" />
     <Content Include="Web.config" />
     <Content Include="EditForm.aspx" />
   </ItemGroup>
